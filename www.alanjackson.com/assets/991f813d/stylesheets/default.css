@@ -1,0 +1,16 @@
+.widget-gallerylist .card-image:hover {
+  cursor: pointer;
+  opacity: 0.5;
+  -webkit-transition: opacity;
+  -webkit-transition-property: opacity;
+  -webkit-transition-duration: 500ms;
+  -webkit-transition-timing-function: ease-out;
+  -webkit-transition-delay: initial;
+  -webkit-transition-timing-function: ease-out;
+}
+
+.widget-gallerylist .title {
+  display: none;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImRlZmF1bHQuc2NzcyIsImRlZmF1bHQuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQXlCQztFQUNDLGdCQUFBO0VBQ0EsYUFBQTtFQUNBLDRCQUFBO0VBQ0EscUNBQUE7RUFDQSxtQ0FBQTtFQUNBLDZDQUFBO0VBQ0Esa0NBQUE7RUFDQSw2Q0FBQTtDQ3hCRDs7QUQ2Qkc7RUFDSSxjQUFBO0NDMUJQIiwiZmlsZSI6ImRlZmF1bHQuY3NzIn0= */
